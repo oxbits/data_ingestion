@@ -4,7 +4,7 @@ backcall==0.1.0
 billiard==3.5.0.5
 celery==4.2.1
 decorator==4.3.2
-Django==2.1.5
+Django>=2.1.6
 django-celery-results==1.0.4
 -e git+http://github.com/ouhouhsami/django-progressbarupload.git@d9a56d0caa30d68756c36bf4032905bddeb4efa6#egg=django_progressbarupload
 ipython==7.2.0
